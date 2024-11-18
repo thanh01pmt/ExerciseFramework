@@ -7,10 +7,8 @@
 
 import Foundation
 
-public struct Topic1Exercise {
+public struct Simple {
     public static func sum(a: Int, b: Int) -> Int {
-        
-        return 0
         
         // Viết lệnh của bạn ở trên
         // Giữ nguyên đoạn lệnh bên dưới
